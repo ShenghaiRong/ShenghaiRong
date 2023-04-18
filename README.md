@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Contact
+### Contact 📫
 Email: rongsh@mail.ustc.edu.cn
 
 <!-- ![Shenghai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShenghaiRong&show_icons=true&theme=tokyonight&show_icons=true) -->
