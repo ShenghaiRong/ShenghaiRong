@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 ### Contact 📫
 Email: rongsh@mail.ustc.edu.cn
 
-<!-- ![Shenghai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShenghaiRong&show_icons=true&theme=tokyonight&show_icons=true) -->
 
-[![Shenghai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShenghaiRong)](https://github.com/ShenghaiRong/github-readme-stats)
