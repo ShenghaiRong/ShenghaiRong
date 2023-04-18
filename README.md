@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Shenghai. My research interests lie in computer vision, particularly in recognition and segmentation.
 
 <!--
 **ShenghaiRong/ShenghaiRong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
